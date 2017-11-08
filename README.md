@@ -1,4 +1,4 @@
-# PasswordLessLogin(TAP TO IN)
+# Facebook Account Kit(TAP TO IN)
 Android app uses FACEBOOK's ACCOUNT KIT to login without password with EMAIL and PHONE.
 
 # HOW TO USE
